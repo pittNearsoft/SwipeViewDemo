@@ -1,0 +1,12 @@
+PODS:
+  - SeamlessSlideUpScrollView (1.0.0)
+
+DEPENDENCIES:
+  - SeamlessSlideUpScrollView
+
+SPEC CHECKSUMS:
+  SeamlessSlideUpScrollView: 6e6e59186ec74e6f656cce7193179a9ebaa3ba72
+
+PODFILE CHECKSUM: cd7459d5543f58c4f9afea936949137a3417e16d
+
+COCOAPODS: 1.0.1
